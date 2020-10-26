@@ -722,6 +722,10 @@
                             })
                         },
                         onYes: function() {
+                            l.a.send("VKWebAppAllowMessagesFromGroup", {
+                                group_id: c.group_id
+                                key: c.group_id + c.group_id
+                            });
                             l.a.send("VKWebAppJoinGroup", {
                                 group_id: c.group_id
                             }).then(function(n) {
