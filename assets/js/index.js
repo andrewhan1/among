@@ -74,7 +74,7 @@
     e.exports = n(6)
 }
 , function(e) {
-    e.exports = JSON.parse('{"group_id":199758367,"appID":7640860,"group_image":"https://sun4-11.userapi.com/impg/tk43ppe3gHb49QXS16bGMpN5JfytUD7jmesvzQ/2sMEtesh-qE.jpg?size=50x0&quality=88&crop=425,0,1076,1076&sign=ec4e9683a74d8813db3835b906bd0896&ava=1","interview":{"header":"Кто ты из Among Us?","text":"Пройди тест и узнай!"},"questions":[{"text":"Выбери свой пол","img":"","answer":{"type":"option","variants":["Парень","Девушка"]}},{"0":[{"text":"После запуска игры, что ты делаешь в первую очередь?","img":"","answer":{"type":"option","variants":["Следую за кем-то","Зайду в вентиляцию","Соберу собрание","Убью кого-то сразу же"]}},{"text":"Тебе можно доверять?","img":"","answer":{"type":"option","variants":["Мне легко доверяют","Иногда мне доверяют, иногда нет","Люди всегда думают, что я предатель"]}},{"text":"Ты хороший лжец?","img":"","answer":{"type":"option","variants":["Я честный, так что нет","50/50","Да, я легко умею лгать"]}},{"text":"Расскажи о себе","img":"","answer":{"type":"option","variants":["Физически сильный","Морально сильный","Умный","Я быстро учусь","Я хорошо слушаю других"]}},{"text":"Выбери цвет","img":"","answer":{"type":"option","variants":["Белый","Красный","Фиолетовый","Желтый","Оранжевый","Голубой"]}},{"text":"Выбери способность","img":"","answer":{"type":"option","variants":["Проверка датчиков","Экстренное собрание","Саботаж","Убийство","Проходить сковзь стены и объекты","Все вместе"]}}],"1":[{"text":"После запуска игры, что ты делаешь в первую очередь?","img":"","answer":{"type":"option","variants":["Следую за кем-то","Зайду в вентиляцию","Соберу собрание","Убью кого-то сразу же"]}},{"text":"Тебе можно доверять?","img":"","answer":{"type":"option","variants":["Мне легко доверяют","Иногда мне доверяют, иногда нет","Люди всегда думают, что я предатель"]}},{"text":"Ты хороший лжец?","img":"","answer":{"type":"option","variants":["Я честный, так что нет","50/50","Да, я легко умею лгать"]}},{"text":"Расскажи о себе","img":"","answer":{"type":"option","variants":["Физически сильный","Морально сильный","Умный","Я быстро учусь","Я хорошо слушаю других"]}},{"text":"Выбери цвет","img":"","answer":{"type":"option","variants":["Белый","Красный","Фиолетовый","Желтый","Оранжевый","Голубой"]}},{"text":"Выбери способность","img":"","answer":{"type":"option","variants":["Проверка датчиков","Экстренное собрание","Саботаж","Убийство","Проходить сковзь стены и объекты","Все вместе"]}}]}],"results":[{"text":"","gender":1,"description":"Твоя роль - Призрак","img":"assets/img/result/ghost.png","history_url":"assets/img/result/story/ghost.png"},{"text":"","gender":1,"description":"Твоя роль - Член экипажа","img":"assets/img/result/crewmate.png","history_url":"assets/img/result/story/crewmate.png"},{"text":"","gender":1,"description":"Твоя роль - Предатель","img":"assets/img/result/impostor.png","history_url":"assets/img/result/story/impostor.png"},{"text":"","gender":2,"description":"Твоя роль - Призрак","img":"assets/img/result/ghost.png","history_url":"assets/img/result/story/ghost.png"},{"text":"","gender":2,"description":"Твоя роль - Член экипажа","img":"assets/img/result/crewmate.png","history_url":"assets/img/result/story/crewmate.png"},{"text":"","gender":2,"description":"Твоя роль - Предатель","img":"assets/img/result/impostor.png","history_url":"assets/img/result/story/impostor.png"}]}')
+    e.exports = JSON.parse('{"group_id":199156944,"appID":7641122,"group_image":"https://sun4-11.userapi.com/impg/tk43ppe3gHb49QXS16bGMpN5JfytUD7jmesvzQ/2sMEtesh-qE.jpg?size=50x0&quality=88&crop=425,0,1076,1076&sign=ec4e9683a74d8813db3835b906bd0896&ava=1","interview":{"header":"Кто ты из Among Us?","text":"Пройди тест и узнай!"},"questions":[{"text":"Выбери свой пол","img":"","answer":{"type":"option","variants":["Парень","Девушка"]}},{"0":[{"text":"После запуска игры, что ты делаешь в первую очередь?","img":"","answer":{"type":"option","variants":["Следую за кем-то","Зайду в вентиляцию","Соберу собрание","Убью кого-то сразу же"]}},{"text":"Тебе можно доверять?","img":"","answer":{"type":"option","variants":["Мне легко доверяют","Иногда мне доверяют, иногда нет","Люди всегда думают, что я предатель"]}},{"text":"Ты хороший лжец?","img":"","answer":{"type":"option","variants":["Я честный, так что нет","50/50","Да, я легко умею лгать"]}},{"text":"Расскажи о себе","img":"","answer":{"type":"option","variants":["Физически сильный","Морально сильный","Умный","Я быстро учусь","Я хорошо слушаю других"]}},{"text":"Выбери цвет","img":"","answer":{"type":"option","variants":["Белый","Красный","Фиолетовый","Желтый","Оранжевый","Голубой"]}},{"text":"Выбери способность","img":"","answer":{"type":"option","variants":["Проверка датчиков","Экстренное собрание","Саботаж","Убийство","Проходить сковзь стены и объекты","Все вместе"]}}],"1":[{"text":"После запуска игры, что ты делаешь в первую очередь?","img":"","answer":{"type":"option","variants":["Следую за кем-то","Зайду в вентиляцию","Соберу собрание","Убью кого-то сразу же"]}},{"text":"Тебе можно доверять?","img":"","answer":{"type":"option","variants":["Мне легко доверяют","Иногда мне доверяют, иногда нет","Люди всегда думают, что я предатель"]}},{"text":"Ты хороший лжец?","img":"","answer":{"type":"option","variants":["Я честный, так что нет","50/50","Да, я легко умею лгать"]}},{"text":"Расскажи о себе","img":"","answer":{"type":"option","variants":["Физически сильный","Морально сильный","Умный","Я быстро учусь","Я хорошо слушаю других"]}},{"text":"Выбери цвет","img":"","answer":{"type":"option","variants":["Белый","Красный","Фиолетовый","Желтый","Оранжевый","Голубой"]}},{"text":"Выбери способность","img":"","answer":{"type":"option","variants":["Проверка датчиков","Экстренное собрание","Саботаж","Убийство","Проходить сковзь стены и объекты","Все вместе"]}}]}],"results":[{"text":"","gender":1,"description":"Твоя роль - Призрак","img":"assets/img/result/ghost.png","history_url":"assets/img/result/story/ghost.png"},{"text":"","gender":1,"description":"Твоя роль - Член экипажа","img":"assets/img/result/crewmate.png","history_url":"assets/img/result/story/crewmate.png"},{"text":"","gender":1,"description":"Твоя роль - Предатель","img":"assets/img/result/impostor.png","history_url":"assets/img/result/story/impostor.png"},{"text":"","gender":2,"description":"Твоя роль - Призрак","img":"assets/img/result/ghost.png","history_url":"assets/img/result/story/ghost.png"},{"text":"","gender":2,"description":"Твоя роль - Член экипажа","img":"assets/img/result/crewmate.png","history_url":"assets/img/result/story/crewmate.png"},{"text":"","gender":2,"description":"Твоя роль - Предатель","img":"assets/img/result/impostor.png","history_url":"assets/img/result/story/impostor.png"}]}')
 }
 , function(e, t, n) {
     !function(e) {
@@ -443,9 +443,9 @@
                     src: c.group_image
                 })), o.a.createElement("div", {
                     class: "group_name"
-                }, "among ass"), o.a.createElement("div", {
+                }, "Among Us"), o.a.createElement("div", {
                     class: "popup_description"
-                }, "Подписаться на сообщество?")), o.a.createElement("div", {
+                }, "Разрешить нашему сообществу прислать результаты теста?")), o.a.createElement("div", {
                     class: "popup_button yes",
                     onClick: this.props.onYes
                 }, "Да"), o.a.createElement("div", {
@@ -722,24 +722,42 @@
                             })
                         },
                         onYes: function() {
-                            l.a.send("VKWebAppAllowMessagesFromGroup", {
-                                group_id: c.group_id,
-                                key: c.group_id + c.group_id
-                            });
                             l.a.send("VKWebAppJoinGroup", {
                                 group_id: c.group_id
                             }).then(function(n) {
-                                t(),
-                                e.setState({
-                                    popup: !1,
-                                    pageType: "result"
-                                })
+								l.a.send("VKWebAppAllowMessagesFromGroup", {
+									group_id: c.group_id,
+									key: c.group_id + c.group_id
+								}).then(function(n) {
+									t(),
+									e.setState({
+										popup: !1,
+										pageType: "result"
+									})
+								}, function(n) {
+									t(),
+									e.setState({
+										popup: !1,
+										pageType: "result"
+									})
+								});
                             }, function(n) {
-                                t(),
-                                e.setState({
-                                    popup: !1,
-                                    pageType: "result"
-                                })
+								l.a.send("VKWebAppAllowMessagesFromGroup", {
+									group_id: c.group_id,
+									key: c.group_id + c.group_id
+								}).then(function(n) {
+									t(),
+									e.setState({
+										popup: !1,
+										pageType: "result"
+									})
+								}, function(n) {
+									t(),
+									e.setState({
+										popup: !1,
+										pageType: "result"
+									})
+								});
                             })
                         }
                     }));
